@@ -13,12 +13,12 @@ Prerequisites
 
 Step-by-Step Procedure
 
-Import Required Libraries.
-Set Up WebDriver.
-Navigate to Amazon India.
-Search for "Wrist Watches.
-Filter by "Leather" under Watch Band Material.
-Select "Fastrack" as the Watch Brand.
-Navigate to the 2nd Page of Results.
-Add the 1st Product in the 1st Row to the Cart.
+1.Import Required Libraries.
+2.Set Up WebDriver.
+3.Navigate to Amazon India.
+4.Search for "Wrist Watches.
+4.Filter by "Leather" under Watch Band Material.
+5.Select "Fastrack" as the Watch Brand.
+6.Navigate to the 2nd Page of Results.
+6.Add the 1st Product in the 1st Row to the Cart.
 Close the Browser.
